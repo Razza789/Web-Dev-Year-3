@@ -70,13 +70,3 @@ This page shows details of the research content that has the title, abstract, au
 
 Countries Page: https://w20017978.nuwebspace.co.uk/coursework/react/countries
 This page lists each country from the affiliation table in the database and only displays the country once. There is a search box that allows you to search for the country.
-
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
